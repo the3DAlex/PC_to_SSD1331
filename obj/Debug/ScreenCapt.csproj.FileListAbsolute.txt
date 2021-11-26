@@ -1,0 +1,17 @@
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\ScreenCapt.exe.config
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\ScreenCapt.exe
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\ScreenCapt.pdb
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\AForge.dll
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\AForge.Video.dll
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\AForge.xml
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\AForge.Video.xml
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.csproj.AssemblyReference.cache
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.Form1.resources
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.Properties.Resources.resources
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.csproj.GenerateResource.cache
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.csproj.CoreCompileInputs.cache
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.csproj.CopyComplete
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.exe
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\obj\Debug\ScreenCapt.pdb
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\FTD2XX_NET.dll
+D:\Work\OldDisp\SSD1331_ScreenCapt\ScreenCapt\bin\Debug\Sharp341.dll
